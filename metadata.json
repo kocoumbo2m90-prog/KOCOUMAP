@@ -1,0 +1,5 @@
+{
+  "name": "KOCOUMBOmapservice",
+  "description": "Service professionnel de cartographie personnalisée avec support SHP, CRS avancés et échelles cartographiques.",
+  "requestFramePermissions": ["geolocation"]
+}
