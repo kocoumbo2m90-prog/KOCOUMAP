@@ -1,0 +1,124 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,201,"SEN","Senegal",1,"Dakar",1,"Dakar",1,"Almadies","Arrondissment","Arrondissement",NA,NA
+2,201,"SEN","Senegal",1,"Dakar",1,"Dakar",2,"Dakar Plateau","Arrondissment","Arrondissement",NA,NA
+3,201,"SEN","Senegal",1,"Dakar",1,"Dakar",3,"Grand Dakar","Arrondissment","Arrondissement",NA,NA
+4,201,"SEN","Senegal",1,"Dakar",1,"Dakar",4,"Parcelles Assainies","Arrondissment","Arrondissement",NA,NA
+5,201,"SEN","Senegal",1,"Dakar",2,"Guédiawaye",5,"Guediawaye","Arrondissment","Arrondissement",NA,NA
+6,201,"SEN","Senegal",1,"Dakar",3,"Pikine",6,"Niayes","Arrondissment","Arrondissement",NA,NA
+7,201,"SEN","Senegal",1,"Dakar",3,"Pikine",7,"Pikine Dagoudane","Arrondissment","Arrondissement",NA,NA
+8,201,"SEN","Senegal",1,"Dakar",3,"Pikine",8,"Thiaroye","Arrondissment","Arrondissement",NA,NA
+9,201,"SEN","Senegal",1,"Dakar",4,"Rufisque",9,"Bambilor","Arrondissment","Arrondissement",NA,NA
+10,201,"SEN","Senegal",1,"Dakar",4,"Rufisque",10,"Rufisque","Arrondissment","Arrondissement",NA,NA
+11,201,"SEN","Senegal",2,"Diourbel",5,"Bambey",11,"Baba Garage","Arrondissment","Arrondissement",NA,NA
+12,201,"SEN","Senegal",2,"Diourbel",5,"Bambey",12,"Lambaye","Arrondissment","Arrondissement",NA,NA
+13,201,"SEN","Senegal",2,"Diourbel",5,"Bambey",13,"Ngoye","Arrondissment","Arrondissement",NA,NA
+14,201,"SEN","Senegal",2,"Diourbel",6,"Diourbel",14,"Ndindy","Arrondissment","Arrondissement",NA,NA
+15,201,"SEN","Senegal",2,"Diourbel",6,"Diourbel",15,"Ndoulo","Arrondissment","Arrondissement",NA,NA
+16,201,"SEN","Senegal",2,"Diourbel",7,"Mbacké",16,"Kael","Arrondissment","Arrondissement",NA,NA
+17,201,"SEN","Senegal",2,"Diourbel",7,"Mbacké",17,"Ndame","Arrondissment","Arrondissement",NA,NA
+18,201,"SEN","Senegal",2,"Diourbel",7,"Mbacké",18,"Taif","Arrondissment","Arrondissement",NA,NA
+19,201,"SEN","Senegal",3,"Fatick",8,"Fatick",19,"Fimela","Arrondissment","Arrondissement",NA,NA
+20,201,"SEN","Senegal",3,"Fatick",8,"Fatick",20,"Ndiob","Arrondissment","Arrondissement",NA,NA
+21,201,"SEN","Senegal",3,"Fatick",8,"Fatick",21,"Niakhar","Arrondissment","Arrondissement",NA,NA
+22,201,"SEN","Senegal",3,"Fatick",8,"Fatick",22,"Tattaguine","Arrondissment","Arrondissement",NA,NA
+23,201,"SEN","Senegal",3,"Fatick",9,"Foundiougne",23,"Djilor","Arrondissment","Arrondissement",NA,NA
+24,201,"SEN","Senegal",3,"Fatick",9,"Foundiougne",24,"Niodior","Arrondissment","Arrondissement",NA,NA
+25,201,"SEN","Senegal",3,"Fatick",9,"Foundiougne",25,"Toubacouta","Arrondissment","Arrondissement",NA,NA
+26,201,"SEN","Senegal",3,"Fatick",10,"Gossas",26,"Colobane","Arrondissment","Arrondissement",NA,NA
+27,201,"SEN","Senegal",3,"Fatick",10,"Gossas",27,"Ouadiour","Arrondissment","Arrondissement",NA,NA
+28,201,"SEN","Senegal",4,"Kédougou",11,"Kédougou",28,"Bandafassi","Arrondissment","Arrondissement",NA,NA
+29,201,"SEN","Senegal",4,"Kédougou",11,"Kédougou",29,"Fongolimbi","Arrondissment","Arrondissement",NA,NA
+30,201,"SEN","Senegal",4,"Kédougou",12,"Salémata",30,"Dakately","Arrondissment","Arrondissement",NA,NA
+31,201,"SEN","Senegal",4,"Kédougou",12,"Salémata",31,"Dar Salam","Arrondissment","Arrondissement",NA,NA
+32,201,"SEN","Senegal",4,"Kédougou",13,"Saraya",32,"Bembou","Arrondissment","Arrondissement",NA,NA
+33,201,"SEN","Senegal",4,"Kédougou",13,"Saraya",33,"Sabodala","Arrondissment","Arrondissement",NA,NA
+34,201,"SEN","Senegal",5,"Kaffrine",14,"Birkilane",34,"Keur Mboucki","Arrondissment","Arrondissement",NA,NA
+35,201,"SEN","Senegal",5,"Kaffrine",14,"Birkilane",35,"Mabo","Arrondissment","Arrondissement",NA,NA
+36,201,"SEN","Senegal",5,"Kaffrine",15,"Kaffrine",36,"Gniby","Arrondissment","Arrondissement",NA,NA
+37,201,"SEN","Senegal",5,"Kaffrine",15,"Kaffrine",37,"Katakel","Arrondissment","Arrondissement",NA,NA
+38,201,"SEN","Senegal",5,"Kaffrine",16,"Koungheul",38,"Ida Mouride","Arrondissment","Arrondissement",NA,NA
+39,201,"SEN","Senegal",5,"Kaffrine",16,"Koungheul",39,"Lour Escale","Arrondissment","Arrondissement",NA,NA
+40,201,"SEN","Senegal",5,"Kaffrine",16,"Koungheul",40,"Missirah Wadene","Arrondissment","Arrondissement",NA,NA
+41,201,"SEN","Senegal",5,"Kaffrine",17,"Malème Hodar",41,"Darou Miname Ii","Arrondissment","Arrondissement",NA,NA
+42,201,"SEN","Senegal",5,"Kaffrine",17,"Malème Hodar",42,"Sagna","Arrondissment","Arrondissement",NA,NA
+43,201,"SEN","Senegal",6,"Kaolack",18,"Guinguinéo",43,"Mbadakhoune","Arrondissment","Arrondissement",NA,NA
+44,201,"SEN","Senegal",6,"Kaolack",18,"Guinguinéo",44,"Nguelou","Arrondissment","Arrondissement",NA,NA
+45,201,"SEN","Senegal",6,"Kaolack",19,"Kaolack",45,"Koumbal","Arrondissment","Arrondissement",NA,NA
+46,201,"SEN","Senegal",6,"Kaolack",19,"Kaolack",46,"Ndiedieng","Arrondissment","Arrondissement",NA,NA
+47,201,"SEN","Senegal",6,"Kaolack",19,"Kaolack",47,"Ngothie","Arrondissment","Arrondissement",NA,NA
+48,201,"SEN","Senegal",6,"Kaolack",20,"Nioro du Rip",48,"Medina Sabakh","Arrondissment","Arrondissement",NA,NA
+49,201,"SEN","Senegal",6,"Kaolack",20,"Nioro du Rip",49,"Paos Koto","Arrondissment","Arrondissement",NA,NA
+50,201,"SEN","Senegal",6,"Kaolack",20,"Nioro du Rip",50,"Wack Ngouna","Arrondissment","Arrondissement",NA,NA
+51,201,"SEN","Senegal",7,"Kolda",21,"Kolda",51,"Dioulacolon","Arrondissment","Arrondissement",NA,NA
+52,201,"SEN","Senegal",7,"Kolda",21,"Kolda",52,"Mampatim","Arrondissment","Arrondissement",NA,NA
+53,201,"SEN","Senegal",7,"Kolda",21,"Kolda",53,"Sare Bidji","Arrondissment","Arrondissement",NA,NA
+54,201,"SEN","Senegal",7,"Kolda",22,"Médina Yoro Foula",54,"Fafacourou","Arrondissment","Arrondissement",NA,NA
+55,201,"SEN","Senegal",7,"Kolda",22,"Médina Yoro Foula",55,"Ndorna","Arrondissment","Arrondissement",NA,NA
+56,201,"SEN","Senegal",7,"Kolda",22,"Médina Yoro Foula",56,"Niaming","Arrondissment","Arrondissement",NA,NA
+57,201,"SEN","Senegal",7,"Kolda",23,"Vélingara",57,"Bonconto","Arrondissment","Arrondissement",NA,NA
+58,201,"SEN","Senegal",7,"Kolda",23,"Vélingara",58,"Pakour","Arrondissment","Arrondissement",NA,NA
+59,201,"SEN","Senegal",7,"Kolda",23,"Vélingara",59,"Sare Coly Sale","Arrondissment","Arrondissement",NA,NA
+60,201,"SEN","Senegal",8,"Louga",24,"Kébémer",60,"Darou Mousty","Arrondissment","Arrondissement",NA,NA
+61,201,"SEN","Senegal",8,"Louga",24,"Kébémer",61,"Sagatta Gueth","Arrondissment","Arrondissement",NA,NA
+62,201,"SEN","Senegal",8,"Louga",25,"Linguère",62,"Barkedji","Arrondissment","Arrondissement",NA,NA
+63,201,"SEN","Senegal",8,"Louga",25,"Linguère",63,"Dodji","Arrondissment","Arrondissement",NA,NA
+64,201,"SEN","Senegal",8,"Louga",25,"Linguère",64,"Sagatta Djolof","Arrondissment","Arrondissement",NA,NA
+65,201,"SEN","Senegal",8,"Louga",25,"Linguère",65,"Yang Yang","Arrondissment","Arrondissement",NA,NA
+66,201,"SEN","Senegal",8,"Louga",26,"Louga",66,"Coki","Arrondissment","Arrondissement",NA,NA
+67,201,"SEN","Senegal",8,"Louga",26,"Louga",67,"Mbediene","Arrondissment","Arrondissement",NA,NA
+68,201,"SEN","Senegal",8,"Louga",26,"Louga",68,"Meur Momar Sarr","Arrondissment","Arrondissement",NA,NA
+69,201,"SEN","Senegal",8,"Louga",26,"Louga",69,"Sakal","Arrondissment","Arrondissement",NA,NA
+70,201,"SEN","Senegal",9,"Matam",27,"Kanel",70,"Orkadiere","Arrondissment","Arrondissement",NA,NA
+71,201,"SEN","Senegal",9,"Matam",27,"Kanel",71,"Ouro Sidy","Arrondissment","Arrondissement",NA,NA
+72,201,"SEN","Senegal",9,"Matam",28,"Matam",72,"Agnam Civol","Arrondissment","Arrondissement",NA,NA
+73,201,"SEN","Senegal",9,"Matam",28,"Matam",73,"Ogo","Arrondissment","Arrondissement",NA,NA
+74,201,"SEN","Senegal",9,"Matam",29,"Ranérou Ferlo",74,"Velingara","Arrondissment","Arrondissement",NA,NA
+75,201,"SEN","Senegal",10,"Sédhiou",30,"Bounkiling",75,"Boghal","Arrondissment","Arrondissement",NA,NA
+76,201,"SEN","Senegal",10,"Sédhiou",30,"Bounkiling",76,"Bona","Arrondissment","Arrondissement",NA,NA
+77,201,"SEN","Senegal",10,"Sédhiou",30,"Bounkiling",77,"Diaroume","Arrondissment","Arrondissement",NA,NA
+78,201,"SEN","Senegal",10,"Sédhiou",31,"Goudomp",78,"Djibanar","Arrondissment","Arrondissement",NA,NA
+79,201,"SEN","Senegal",10,"Sédhiou",31,"Goudomp",79,"Karantaba","Arrondissment","Arrondissement",NA,NA
+80,201,"SEN","Senegal",10,"Sédhiou",31,"Goudomp",80,"Simbandi Brassou","Arrondissment","Arrondissement",NA,NA
+81,201,"SEN","Senegal",10,"Sédhiou",32,"Sédhiou",81,"Diende","Arrondissment","Arrondissement",NA,NA
+82,201,"SEN","Senegal",10,"Sédhiou",32,"Sédhiou",82,"Djibabouya","Arrondissment","Arrondissement",NA,NA
+83,201,"SEN","Senegal",10,"Sédhiou",32,"Sédhiou",83,"Djiredji","Arrondissment","Arrondissement",NA,NA
+84,201,"SEN","Senegal",11,"Saint-Louis",33,"Dagana",84,"Mbane","Arrondissment","Arrondissement",NA,NA
+85,201,"SEN","Senegal",11,"Saint-Louis",33,"Dagana",85,"Ndiaye Mberess","Arrondissment","Arrondissement",NA,NA
+86,201,"SEN","Senegal",11,"Saint-Louis",34,"Podor",86,"Cas Cas","Arrondissment","Arrondissement",NA,NA
+87,201,"SEN","Senegal",11,"Saint-Louis",34,"Podor",87,"Gamadji Sarre","Arrondissment","Arrondissement",NA,NA
+88,201,"SEN","Senegal",11,"Saint-Louis",34,"Podor",88,"Salde","Arrondissment","Arrondissement",NA,NA
+89,201,"SEN","Senegal",11,"Saint-Louis",34,"Podor",89,"Thile Boubacar","Arrondissment","Arrondissement",NA,NA
+90,201,"SEN","Senegal",11,"Saint-Louis",35,"Saint-Louis",90,"Rao","Arrondissment","Arrondissement",NA,NA
+91,201,"SEN","Senegal",12,"Tambacounda",36,"Bakel",91,"Bele","Arrondissment","Arrondissement",NA,NA
+92,201,"SEN","Senegal",12,"Tambacounda",36,"Bakel",92,"Kenieba","Arrondissment","Arrondissement",NA,NA
+93,201,"SEN","Senegal",12,"Tambacounda",36,"Bakel",93,"Moudery","Arrondissment","Arrondissement",NA,NA
+94,201,"SEN","Senegal",12,"Tambacounda",37,"Goudiry",94,"Bala","Arrondissment","Arrondissement",NA,NA
+95,201,"SEN","Senegal",12,"Tambacounda",37,"Goudiry",95,"Boynguel Bamba","Arrondissment","Arrondissement",NA,NA
+96,201,"SEN","Senegal",12,"Tambacounda",37,"Goudiry",96,"Dianke Makha","Arrondissment","Arrondissement",NA,NA
+97,201,"SEN","Senegal",12,"Tambacounda",37,"Goudiry",97,"Koulor","Arrondissment","Arrondissement",NA,NA
+98,201,"SEN","Senegal",12,"Tambacounda",38,"Koupentoum",98,"Bamba Ndiayene","Arrondissment","Arrondissement",NA,NA
+99,201,"SEN","Senegal",12,"Tambacounda",38,"Koupentoum",99,"Kouthiaba Ouolof","Arrondissment","Arrondissement",NA,NA
+100,201,"SEN","Senegal",12,"Tambacounda",39,"Tambacounda",100,"Koussanar","Arrondissment","Arrondissement",NA,NA
+101,201,"SEN","Senegal",12,"Tambacounda",39,"Tambacounda",101,"Makacoulibantang","Arrondissment","Arrondissement",NA,NA
+102,201,"SEN","Senegal",12,"Tambacounda",39,"Tambacounda",102,"Missirah","Arrondissment","Arrondissement",NA,NA
+103,201,"SEN","Senegal",13,"Thiès",40,"Mbour",103,"Fissel","Arrondissment","Arrondissement",NA,NA
+104,201,"SEN","Senegal",13,"Thiès",40,"Mbour",104,"Sessene","Arrondissment","Arrondissement",NA,NA
+105,201,"SEN","Senegal",13,"Thiès",40,"Mbour",105,"Sindia","Arrondissment","Arrondissement",NA,NA
+106,201,"SEN","Senegal",13,"Thiès",41,"Thiès",106,"Keur Moussa","Arrondissment","Arrondissement",NA,NA
+107,201,"SEN","Senegal",13,"Thiès",41,"Thiès",107,"Notto","Arrondissment","Arrondissement",NA,NA
+108,201,"SEN","Senegal",13,"Thiès",41,"Thiès",108,"Thienaba","Arrondissment","Arrondissement",NA,NA
+109,201,"SEN","Senegal",13,"Thiès",41,"Thiès",109,"Thies Nord","Arrondissment","Arrondissement",NA,NA
+110,201,"SEN","Senegal",13,"Thiès",41,"Thiès",110,"Thies Sud","Arrondissment","Arrondissement",NA,NA
+111,201,"SEN","Senegal",13,"Thiès",42,"Tivaouane",111,"Meouane","Arrondissment","Arrondissement",NA,NA
+112,201,"SEN","Senegal",13,"Thiès",42,"Tivaouane",112,"Mequane","Arrondissment","Arrondissement",NA,NA
+113,201,"SEN","Senegal",13,"Thiès",42,"Tivaouane",113,"Merina Dakhar","Arrondissment","Arrondissement",NA,NA
+114,201,"SEN","Senegal",13,"Thiès",42,"Tivaouane",114,"Niakhene","Arrondissment","Arrondissement",NA,NA
+115,201,"SEN","Senegal",13,"Thiès",42,"Tivaouane",115,"Pambal","Arrondissment","Arrondissement",NA,NA
+116,201,"SEN","Senegal",14,"Ziguinchor",43,"Bignona",116,"Kataba I","Arrondissment","Arrondissement",NA,NA
+117,201,"SEN","Senegal",14,"Ziguinchor",43,"Bignona",117,"Sindian","Arrondissment","Arrondissement",NA,NA
+118,201,"SEN","Senegal",14,"Ziguinchor",43,"Bignona",118,"Tendouck","Arrondissment","Arrondissement",NA,NA
+119,201,"SEN","Senegal",14,"Ziguinchor",43,"Bignona",119,"Tenghory","Arrondissment","Arrondissement",NA,NA
+120,201,"SEN","Senegal",14,"Ziguinchor",44,"Oussouye",120,"Cabrousse","Arrondissment","Arrondissement",NA,NA
+121,201,"SEN","Senegal",14,"Ziguinchor",44,"Oussouye",121,"Loudia Ouolof","Arrondissment","Arrondissement",NA,"<Null>"
+122,201,"SEN","Senegal",14,"Ziguinchor",45,"Ziguinchor",122,"Niaguis","Arrondissment","Arrondissement",NA,NA
+123,201,"SEN","Senegal",14,"Ziguinchor",45,"Ziguinchor",123,"Nyassia","Arrondissment","Arrondissement",NA,NA
